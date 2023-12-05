@@ -1,3 +1,5 @@
+# Desafio de projeto DIO, onde criamos uma WIKI para o GITHUB, sendo possível buscar e acessar repositórios utilizando a API do GITHUB.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
